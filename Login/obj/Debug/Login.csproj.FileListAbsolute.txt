@@ -1,0 +1,6 @@
+C:\csharp\Login\Login\bin\Login.dll.config
+C:\csharp\Login\Login\bin\Login.dll
+C:\csharp\Login\Login\bin\Login.pdb
+C:\csharp\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\csharp\Login\Login\obj\Debug\Login.dll
+C:\csharp\Login\Login\obj\Debug\Login.pdb
